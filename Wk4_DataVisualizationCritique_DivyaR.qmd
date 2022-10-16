@@ -1,0 +1,95 @@
+---
+title: "Week4_Data Visualization Critique"
+format: html
+editor: visual
+---
+
+## BUAN 5210 01 
+
+## WEEK 4: DATA VISUALIZATION CRITIQUE PAPER
+
+Name: Divya Ramesh
+
+I have selected the following Data Visualization from Visual Capitalist website:
+
+![](images/Screen%20Shot%202022-10-14%20at%2010.28.47%20AM.png){width="621"}
+
+*Visualization 1: Visual Capitalist Chart - Companies that belong to Trillion-dollar club*
+
+**Q3a. What you think the story the visualization is trying to tell is**
+
+\
+The above visualization tells a story about the publicly-traded companies which has achieved a Trillion or more dollars in market capitalization as of October 2021.
+
+**Q3b. How effectively you think it conveys that story**
+
+The story gets across fairly clearly of what the author is trying to convey for the following reasons:
+
+1.  With a very first look at the visualization, a reader can understand the story well enough as the author has grouped the information that needs attention in a distinct color and the selected an accurate title to describe his/her findings.
+2.  The author has chosen an appropriate color scheme of grey to represent a few companies that are close but still not under the elite Trillion-Dollar Club;
+3.  The author has chosen varying intensity of yellow shades to represent the companies that have reached/crossed \$1 Trillion value in market capitalization
+4.  The author has also ranked the seven(7) companies who reached \$1-Trillion in value in descending order of their market capital value, which is easy for someone to clearly compare the companies and identify the top companies with a quick glance at the visualization.
+
+However the visualization is still subjected to couple of flaws as comparison between categories are not very easy, the visualization in itself is a little complex with lots of descriptive information provided.
+
+**Q3c. Whether it's being misleading in some way (intentionally or not!)**
+
+The color scheme seems to be a noticeable flaw in this visualization, firstly, the black background underemphasizes the data. If one were to notice, even though the author has chosen light to dark spectrum of yellow to represent the company with highest market capitalization to that with least market capitalization, Alphabet which has a market cap of \$1.8T and it is color coded in yellow whereas Amazon which has a market cap of \$1.7T is color coded in orange. It can distract the reader by implying additional meaning where none exists. Instead, color should be used with purpose. For instance, the author could have chosen varying degrees of intensity as: yellow shade for companies \>=\$2T and Orange shade for companies \<\$2T and \>=\$1T.
+
+Another misleading factor is that the data is depicted in concentric circles, which is not an appropriate choice of visual display in this case as it decreases readability as one has to follow a particular circle, say Microsoft, till the end of its circle to read off its value, there is a high chance of misinterpreting/getting lost along the way.
+
+Furthermore, it is hard to figure out where these companies are situated, even though there are flags provided, it is assumed that a reader always can identify a country through its flag.
+
+**Q3d. How well it holds up the visualization principles we've learned about**
+
+The above graph can be analysed through the following Gestalt principles of visual perception:
+
+Proximity - The graph compares market capitalization value in a ranked-order, and close proximity to each other puts it easier to compare. However, the values of each company is not that easy to read off from the concentric circles.
+
+Similarity - The graph distinguishes the companies valued below \$1T from that equal to or above \$1T clearly. However, the use of orange and brown color leaves one wondering what the author is trying to convey.
+
+Enclosure - The visualization uses lines drawn across the arc to represent 3 broad categories, this is very effective in communicating the information. But I noticed a major flaw in this, if we look at line which demarcates companies with description 'Waiting in the Wings', it includes all the 11 companies, therefore I think the author has failed to represent correctly, this might unintentionally mislead.
+
+**Q3e. How it could be improved**
+
+-   **Reduce visual clutter -** By removing background color the graph will stand out and lighter tone grid lines can be added, without being overemphasized. As part of clutter reduction, tonal variation of a single color can be used with a distinct purpose (getting rid of red titles, etc.). Also, unecessary verbal descriptions can be removed to keep the
+
+-   **Determine the chart type**: I think a vertical bar chart fits the information better.
+
+-   **Determine the primary comparison**: I decided on the 3 primary categories of companies
+
+    -   Equal to or more than \$2T in value
+
+    -   Equal to or more than \$1T, but less than \$2T in value
+
+    -   Less than \$1T in value
+
+-   To draw lesser attention to the countries these companies are situated, I think making it as a second-order priority would be better, thus, adding a legend could help a reader associate flags to countries. Even though it takes the reader to do little work to read off a legend, it is only for those who are unsure of the flags and need a quick access to information, instead of researching on their own to find out.
+
+-   **Improving enclosure** - I think it is necessary to distinguish the companies into 2 broader categories: Companies that are worth a Trillion or more versus companies that might join the trillion-dollar club, so using a vertical line to separate these entities would be ideal.
+
+**Q3f. Why your improved version (from step 4) improves it**
+
+I have chosen bar chart to represent this data. Bars are plotted on a common baseline, in this case market capitalization, which gives a visual construct, allowing easier comparison of values.
+
+I have used colors to add meaning to the categories posted. Trillion-dollar companies can be easily identified with the different shades of a particular color, companies valued \$2T or more with darker shade of blue & companies valued \$1T or more with a lighter shade of blue versus companies that are closer to reaching trillion-dollar value represented in grey since they are not the highlight/focus of the topic.
+
+I have also sorted the values in descending order of categorical values and included value annotations at the top of each bar, instead of letting the reader to gauge approximations for easier interpretation.
+
+I have also eliminated clutter, by minimizing verbal descriptions. The original infographics consists a handful of such descriptions, such as how Tesla made it to the trillion-dollar group, and facebook's story etc. This information is not consistently provided for other companies and it might distract a reader from focusing on the main subject with too much information.
+
+Using a red dotted line between Tesla and Facebook creates an imaginary enclosure to differentiate the 2 categories. The use of bold text for **'Companies that are worth a Trillion or more'** aims to pivot attention towards the story.
+
+Lastly, the countries are still there, but I have included a legend to list out the flag of countries. I did not add the country names to the x-axis as it might be too much of written description. I have also removed company symbols and kept it simpler with company names for easier identification and to eliminate the chance of misinterpretation.
+
+**Q4. Design and draw (by hand or computer) an improved version of the visualization.**
+
+![](images/Screen%20Shot%202022-10-16%20at%2010.30.16%20AM.png)*Visualization 2: Tableau & Powerpoint - Trillion-Dollar Companies in the World*
+
+......................................................................................................................................................
+
+**References:**
+
+*Ghosh, Iman. (2021, Aug 23). Visual Capitalist. Retrieved from https://www.visualcapitalist.com/which-companies-belong-to-the-elite-trillion-dollar-club/*
+
+Nussbaumer, C. (2012, May 25). *Story Telling with Data*. Retrieved from https://www.storytellingwithdata.com/blog/2012/05/telling-multiple-stories-part-1
